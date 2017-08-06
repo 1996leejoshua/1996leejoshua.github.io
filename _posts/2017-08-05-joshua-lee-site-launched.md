@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joshua Lee,Launches Site"
+title: "Site Launch"
 date: 2017-08-05
 ---
 
