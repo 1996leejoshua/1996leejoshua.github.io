@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My Research Experience"
-date: 2017-08-09
+title: "My Thoughts on the Controversial Google Memo"
+date: 2017-08-11
 ---
 
 Disclaimer: All opinions in this post are just that: opinions. Nothing I say is meant to offend anyone in any way, and I know that my opinions can be biased by my social circumstances and my gender. I hope that this post can be read from an unopiniated point of view. 
