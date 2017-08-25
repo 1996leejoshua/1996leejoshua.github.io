@@ -58,7 +58,7 @@ body, html, main {
 	background-position: center center;
 }
 .cd-fixed-bg.cd-bg-1 {
-  background-image: url(https://user-images.githubusercontent.com/30760624/29732490-ae7e9afa-899d-11e7-94f1-802e0ff6e025.jpg);
+  background-image: url("https://user-images.githubusercontent.com/30760624/29732490-ae7e9afa-899d-11e7-94f1-802e0ff6e025.jpg");
 }
 .cd-fixed-bg.cd-bg-2 {
   background-image: url("https://user-images.githubusercontent.com/30760624/29732512-c11dddd8-899d-11e7-9eb3-1f2458916c12.jpg");
