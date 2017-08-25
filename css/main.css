@@ -49,7 +49,7 @@ ul.posts li {
 }
 body, html, main {
 	height: 100%;
-	background-color: aliceblue;
+	/*background-color: aliceblue;*/
 } 
 .cd-fixed-bg {
 	min-height: 100%;
