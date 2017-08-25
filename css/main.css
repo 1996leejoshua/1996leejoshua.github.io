@@ -49,10 +49,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-img {
-    position: relative;
-    float: left;
-    width: 100px;
-    height: 100px;
-    margin: 0 auto;
-}
