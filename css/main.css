@@ -48,7 +48,6 @@ ul.posts li {
     list-style: none;
 }
 body, html, main {
-    /* parallax effect */
 	height: 100%;
 } 
 .cd-fixed-bg {
