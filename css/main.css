@@ -62,13 +62,19 @@ body, html, main {
   background-image: url("../img/cd-background-1.jpg");
 }
 .cd-fixed-bg.cd-bg-2 {
-  background-image: url("../img/cd-background-2.jpg");
+  background-image: url(https://user-images.githubusercontent.com/30760624/29732490-ae7e9afa-899d-11e7-94f1-802e0ff6e025.jpg);
 }
 .cd-fixed-bg.cd-bg-3 {
   background-image: url("../img/cd-background-3.jpg");
 }
 .cd-fixed-bg.cd-bg-4 {
-  background-image: url("../img/cd-background-4.jpg");
+  background-image: url("https://user-images.githubusercontent.com/30760624/29732512-c11dddd8-899d-11e7-9eb3-1f2458916c12.jpg");
+}
+.cd-fixed-bg.cd-bg-5 {
+  background-image: url("../img/cd-background-5.jpg");
+}
+.cd-fixed-bg.cd-bg-6 {
+  background-image: url("https://user-images.githubusercontent.com/30760624/29732535-d356d3b0-899d-11e7-86c3-584f94d8b88b.jpg");
 }
 .cd-scrolling-bg {
 	min-height: 100%;
