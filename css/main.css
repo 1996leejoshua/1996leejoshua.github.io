@@ -69,6 +69,9 @@ body, html, main {
 .cd-fixed-bg.cd-bg-4 {
 	background-image: url("https://user-images.githubusercontent.com/30760624/29735815-c8f2a2e2-89b0-11e7-9a7b-f61684eadf86.jpg");
 }
+.cd-fixed-bg.cd-bg-5 {
+	background-image: url("https://user-images.githubusercontent.com/30760624/29735841-f8edd106-89b0-11e7-949d-b96592aba545.jpg");
+}
 .cd-scrolling-bg {
 	min-height: 100%;
 }
