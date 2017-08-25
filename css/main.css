@@ -52,4 +52,5 @@ ul.posts li {
 img.center {
     display: block;
     margin: 0 auto;
+    width: 48px
 }
