@@ -68,6 +68,7 @@ body, html, main {
 }
 .cd-fixed-bg.cd-bg-4 {
 	background-image: url("https://user-images.githubusercontent.com/30760624/29735309-ec7266e8-89ac-11e7-9de6-79c79352333f.jpg");
+}
 .cd-scrolling-bg {
 	min-height: 100%;
 }
