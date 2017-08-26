@@ -27,9 +27,8 @@ h1 {
 }
 h2 {
     color: #111; 
-    font-size: 2em;
+    font-size: 1.75em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif'; 
-    font-weight: 300; 
     text-align: center; 
 }
 p {
