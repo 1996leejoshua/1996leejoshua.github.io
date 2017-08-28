@@ -8,6 +8,7 @@ date: 2017-08-09
 
   To be honest, I didn't invest as much time as I should have on my research, and it showed in the rate of my progress. It took me almost the entirety of my Fall and Winter quarters for me to produce a quantitative result that my postdoc could use in his research paper. I was lucky enough to be offered a paid summer research position when I reached out to my professor. Thus far, I've really enjoyed the work I've done with my graduate mentor. Head on over to my Research page to learn more about what I do. 
 
+Update: I've since removed the research page in favor of a link to my resume. If you would like to inquire into the specifics of what I do, feel free to contact me via email. I will likely make a separate blog post to summarize all the work I've done once summer ends.
 
 
 Josh
