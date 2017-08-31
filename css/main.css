@@ -50,10 +50,10 @@ footer {
     	text-align: center;
 }
 div.transbox {
-  margin: 30px;
-  background-color: #ffffff;
-  opacity: 0.6;
-  filter: alpha(opacity=60); /* For IE8 and earlier */
+  	margin: 30px;
+  	background-color: black;
+  	opacity: 0.6;
+  	filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 ul.posts { 
 	margin: 20px auto 40px; 
