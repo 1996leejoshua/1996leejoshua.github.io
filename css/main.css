@@ -35,7 +35,7 @@ h2 {
 	font-weight: 50;
 }
 p {
-	/*color: white;*/
+	color: white;
     	font-size: 1.25em;
     	line-height: 1.5em;
 }
@@ -64,7 +64,7 @@ ul.posts li {
 }
 body, html, main {
 	height: 100%;
-	/*background-color: black;*/
+	background-color: black;
 } 
 .cd-fixed-bg {
 	min-height: 100%;
