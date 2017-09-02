@@ -86,16 +86,19 @@ body, html, main {
 	background-image: url("https://user-images.githubusercontent.com/30760624/29903951-5bcc9092-8dbb-11e7-8089-79a27396fc92.jpg");
 }
 .cd-fixed-bg.cd-bg-5 {
-	background-image: url("");
+	background-image: url("https://user-images.githubusercontent.com/30760624/29993043-8dfca516-8f5f-11e7-910b-712c85ca9dcc.jpg");
 }
 .cd-fixed-bg.cd-bg-6 {
-	background-image: url("");
+	background-image: url("https://user-images.githubusercontent.com/30760624/29993046-c7b68948-8f5f-11e7-865e-36993cfe99ef.jpg");
 }
 .cd-fixed-bg.cd-bg-7 {
-	background-image: url("");
+	background-image: url("https://user-images.githubusercontent.com/30760624/29993048-d6e09fc6-8f5f-11e7-85b4-4559634d3617.jpg");
 }
 .cd-fixed-bg.cd-bg-8 {
-	background-image: url("");
+	background-image: url("https://user-images.githubusercontent.com/30760624/29993050-08e4aa12-8f60-11e7-921d-893b29603222.jpg");
+}
+.cd-fixed-bg.cd-bg-9 {
+	background-image: url("https://user-images.githubusercontent.com/30760624/29993067-c6fc95aa-8f60-11e7-8c7a-aa2a105b1ebf.jpg");
 }
 .cd-scrolling-bg {
 	min-height: 100%;
