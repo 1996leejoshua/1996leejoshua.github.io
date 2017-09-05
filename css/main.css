@@ -73,8 +73,11 @@ body, html, main {
 	background-repeat: no-repeat;
 	background-position: center center;
 }
-.cd-fixed-bg.cd-bg-1 {
+/*.cd-fixed-bg.cd-bg-1 {
 	background-image: url("https://user-images.githubusercontent.com/30760624/29903919-37b79c88-8dbb-11e7-98ff-f6ab3388ef4f.jpg");
+}*/
+.cd-fixed-bg.cd-bg-1 {
+	background-image: url("https://user-images.githubusercontent.com/30760624/30042292-5c84c89a-91a5-11e7-8697-f340d1f2cef8.jpg");
 }
 .cd-fixed-bg.cd-bg-2 {
 	background-image: url("https://user-images.githubusercontent.com/30760624/29903940-4e9476d8-8dbb-11e7-8a8b-38d910abddae.jpg");
