@@ -88,8 +88,11 @@ body, html, main {
 .cd-fixed-bg.cd-bg-4 {
 	background-image: url("https://user-images.githubusercontent.com/30760624/29903951-5bcc9092-8dbb-11e7-8089-79a27396fc92.jpg");
 }
-.cd-fixed-bg.cd-bg-5 {
+/*.cd-fixed-bg.cd-bg-5 {
 	background-image: url("https://user-images.githubusercontent.com/30760624/29993043-8dfca516-8f5f-11e7-910b-712c85ca9dcc.jpg");
+}*/
+.cd-fixed-bg.cd-bg-5 {
+	background-image: url("https://user-images.githubusercontent.com/30760624/30125637-de935df8-92ed-11e7-981c-ea726c27c1b6.jpg");
 }
 .cd-fixed-bg.cd-bg-6 {
 	background-image: url("https://user-images.githubusercontent.com/30760624/29993239-654e6c06-8f66-11e7-9516-5bc5b2196011.jpg");
