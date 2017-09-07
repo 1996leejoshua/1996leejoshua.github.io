@@ -49,16 +49,34 @@ footer {
     	font-size: .8em;
     	text-align: center;
 }
-.skills {
-    	-webkit-column-count: 3; /* Chrome, Safari, Opera */
-    	-moz-column-count: 3; /* Firefox */
-    	column-count: 3;
-    	-webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-    	-moz-column-gap: 40px; /* Firefox */
-    	column-gap: 40px;
-	-webkit-column-rule: 1px solid white; /* Chrome, Safari, Opera */
-    	-moz-column-rule: 1px solid white; /* Firefox */
-    	column-rule: 1px solid white;
+.column {
+    	float: left;
+    	position: relative;
+    	width: 20%;
+}
+.column-offset-1 {
+    left: 20%;
+}
+.column-offset-2 {
+    left: 40%;
+}
+.column-offset-3 {
+    left: 60%;
+}
+.column-offset-4 {
+    left: 80%;
+}
+.column-inset-1 {
+    left: -20%;
+}
+.column-inset-2 {
+    left: -40%;
+}
+.column-inset-3 {
+    left: -60%;
+}
+.column-inset-4 {
+    left: -80%;
 }
 div.transbox {
   	margin: 30px;
