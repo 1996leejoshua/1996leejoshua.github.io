@@ -14,7 +14,7 @@ I've since dialed in my pourover technique, and thus, over the last several mont
 
 My current favorite region of coffee is the Yirgacheffe region in Ethiopia. The various beans I've had from various roasters have all been absolutely fantastic. The sweetness of the blueberry notes is in perfect harmony with the overall clean cup. I tend to like all my beans light to light-medium on the roasting scale (right after first crack). My current brewing method with the V60 is the following:
 
-1:16.667 ratio of coffee to water. 
+1:16.67 ratio of coffee to water. 
 
 Water 30 seconds off the boil (unfortunately, I do not currently have a thermometer). 
 
