@@ -14,13 +14,13 @@ I've since dialed in my pourover technique, and thus, over the last several mont
 
 My current favorite region of coffee is the Yirgacheffe region in Ethiopia. The various beans I've had from various roasters have all been absolutely fantastic. The sweetness of the blueberry notes is in perfect harmony with the overall clean cup. I tend to like all my beans light to light-medium on the roasting scale (right after first crack). My current brewing method with the V60 is the following:
 
-&emdash 1:16.667 ratio of coffee to water
-&emdash Water 30 seconds off the boil (unfortunately, I do not currently have a thermometer)
-&emdash Pre-wet the filter and dump the water
-&emdash Drop the grounds in
-&emdash Bloom with two times the coffee weight and immediately stir with a spoon to ensure even extraction
-&emdash Wait 10 seconds before pouring the rest of the water over the grounds in a concentric circular motion (not pouring too fast or too slow)
-&emdash As the water drains, pick up V60 and give it a couple swirls to make sure the bed is flat and extracts evenly in the final moments
+&emdash 1:16.667 ratio of coffee to water. 
+&emdash Water 30 seconds off the boil (unfortunately, I do not currently have a thermometer). 
+&emdash Pre-wet the filter and dump the water. 
+&emdash Drop the grounds in. 
+&emdash Bloom with two times the coffee weight and immediately stir with a spoon to ensure even extraction. 
+&emdash Wait 10 seconds before pouring the rest of the water over the grounds in a concentric circular motion (not pouring too fast or too slow). 
+&emdash As the water drains, pick up V60 and give it a couple swirls to make sure the bed is flat and extracts evenly in the final moments. 
 &emdash Pour into your favorite mug and enjoy!
 
 For those unfamiliar with the terminology I used, fear not for my following posts will be in-depth guides on how I brew my coffee with everything explained.
