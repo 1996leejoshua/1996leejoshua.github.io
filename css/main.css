@@ -120,6 +120,9 @@ body, html, main {
 .cd-fixed-bg.cd-bg-9 {
 	background-image: url("https://user-images.githubusercontent.com/30760624/29993067-c6fc95aa-8f60-11e7-8c7a-aa2a105b1ebf.jpg");
 }
+.cd-fixed-bg.cd-bg-10 {
+	background-image: url("https://user-images.githubusercontent.com/30760624/38837891-a4558ac2-4188-11e8-959d-5c48679ce602.jpg");
+}
 .cd-scrolling-bg {
 	min-height: 100%;
 }
